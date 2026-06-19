@@ -47,12 +47,24 @@ software that lasts.
 ![Tailwind](https://img.shields.io/badge/Tailwind-1A1A1A?logo=tailwindcss&logoColor=38BDF8)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?logo=swift&logoColor=F05138)
 
-**Cloud &amp; Infra**
+**AWS**
 
 ![AWS](https://img.shields.io/badge/AWS-1A1A1A?logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-1A1A1A?logo=amazonec2&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-1A1A1A?logo=awslambda&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API_Gateway-1A1A1A?logo=amazonapigateway&logoColor=FF4F8B)
 ![S3](https://img.shields.io/badge/S3-1A1A1A?logo=amazons3&logoColor=569A31)
+![RDS](https://img.shields.io/badge/RDS-1A1A1A?logo=amazonrds&logoColor=527FFF)
 ![Route 53](https://img.shields.io/badge/Route_53-1A1A1A?logo=amazonroute53&logoColor=8C4FFF)
+![SQS](https://img.shields.io/badge/SQS-1A1A1A?logo=amazonsqs&logoColor=FF4F8B)
+![SNS](https://img.shields.io/badge/SNS-1A1A1A?logo=amazonsns&logoColor=FF4F8B)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-1A1A1A?logo=amazoncloudwatch&logoColor=FF4F8B)
+![IAM](https://img.shields.io/badge/IAM-1A1A1A?logo=amazoniam&logoColor=DD344C)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-1A1A1A?logo=amazonwebservices&logoColor=DD344C)
 ![Bedrock](https://img.shields.io/badge/Bedrock-1A1A1A?logo=amazonwebservices&logoColor=FF9900)
+
+**Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1A1A1A?logo=kubernetes&logoColor=326CE5)
 ![MinIO](https://img.shields.io/badge/MinIO-1A1A1A?logo=minio&logoColor=C72E49)
