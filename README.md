@@ -2,14 +2,6 @@
 
 **Senior Web Developer** — building AI-powered SaaS products with clean architecture.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB)
-![Swift](https://img.shields.io/badge/Swift-1A1A1A?logo=swift&logoColor=F05138)
-&nbsp;
-![AI](https://img.shields.io/badge/AI_%2F_LLM-1A1A1A?logo=openai&logoColor=white)
-![Search](https://img.shields.io/badge/Search-1A1A1A?logo=opensearch&logoColor=005EB8)
-![Cloud-native](https://img.shields.io/badge/Cloud--native-1A1A1A?logo=kubernetes&logoColor=326CE5)
-
 ---
 
 ### What I do
@@ -22,6 +14,12 @@ search-driven backends to native iOS, with a constant eye on clean architecture 
 software that lasts.
 
 ### Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB)
+![Swift](https://img.shields.io/badge/Swift-1A1A1A?logo=swift&logoColor=F05138)
 
 **AI &amp; Search**
 
