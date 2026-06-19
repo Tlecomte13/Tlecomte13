@@ -2,9 +2,13 @@
 
 **Senior Web Developer** — building scalable SaaS products with clean architecture.
 
-```text
-JavaScript · TypeScript · Python   ·   Search · DX · Cloud-native
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB)
+&nbsp;
+![Search](https://img.shields.io/badge/Search-1A1A1A?logo=opensearch&logoColor=005EB8)
+![Developer Experience](https://img.shields.io/badge/Developer_Experience-1A1A1A)
+![Cloud-native](https://img.shields.io/badge/Cloud--native-1A1A1A?logo=kubernetes&logoColor=326CE5)
 
 ---
 
