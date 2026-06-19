@@ -47,18 +47,18 @@ software that lasts.
 
 **AWS**
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&labelColor=1A1A1A)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&labelColor=1A1A1A)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat&labelColor=1A1A1A)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat&labelColor=1A1A1A)
-![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat&labelColor=1A1A1A)
-![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat&labelColor=1A1A1A)
-![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat&labelColor=1A1A1A)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat&labelColor=1A1A1A)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&labelColor=1A1A1A)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&labelColor=1A1A1A)
-![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=flat&labelColor=1A1A1A)
-![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat&labelColor=1A1A1A)
+![EC2](https://img.shields.io/badge/EC2-1A1A1A?style=flat)
+![Lambda](https://img.shields.io/badge/Lambda-1A1A1A?style=flat)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-1A1A1A?style=flat)
+![S3](https://img.shields.io/badge/S3-1A1A1A?style=flat)
+![RDS](https://img.shields.io/badge/RDS-1A1A1A?style=flat)
+![Route 53](https://img.shields.io/badge/Route%2053-1A1A1A?style=flat)
+![SQS](https://img.shields.io/badge/SQS-1A1A1A?style=flat)
+![SNS](https://img.shields.io/badge/SNS-1A1A1A?style=flat)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-1A1A1A?style=flat)
+![IAM](https://img.shields.io/badge/IAM-1A1A1A?style=flat)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-1A1A1A?style=flat)
+![Bedrock](https://img.shields.io/badge/Bedrock-1A1A1A?style=flat)
 
 **Infra**
 
