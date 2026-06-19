@@ -1,60 +1,62 @@
 # Teddy Lecomte
 
-**Senior Web Developer** — building scalable SaaS products with clean architecture.
+**Senior Web Developer** — building AI-powered SaaS products with clean architecture.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB)
+![Swift](https://img.shields.io/badge/Swift-1A1A1A?logo=swift&logoColor=F05138)
 &nbsp;
+![AI](https://img.shields.io/badge/AI_%2F_LLM-1A1A1A?logo=openai&logoColor=white)
 ![Search](https://img.shields.io/badge/Search-1A1A1A?logo=opensearch&logoColor=005EB8)
-![Developer Experience](https://img.shields.io/badge/Developer_Experience-1A1A1A)
 ![Cloud-native](https://img.shields.io/badge/Cloud--native-1A1A1A?logo=kubernetes&logoColor=326CE5)
 
 ---
 
 ### What I do
 
-Design and ship full-stack products end to end — from search-driven backends and
-microservices to mobile-first interfaces and developer tooling. Focused on clean
-architecture, good developer experience, and software that lasts.
+Design and ship full-stack products end to end — lately focused on **AI-powered
+document processing and semantic search**: RAG pipelines, vector embeddings, and
+MCP servers on top of OpenSearch. From search-driven backends to native iOS and
+developer tooling, with a constant eye on clean architecture and software that lasts.
 
 ### Stack
 
-**Frontend**
+**AI &amp; Search**
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0B1120?logo=tailwindcss&logoColor=38BDF8)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-1A1A1A?logo=opensearch&logoColor=005EB8)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?logo=langchain&logoColor=1C3C3C)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-1A1A1A?logo=amazonwebservices&logoColor=FF9900)
+![MCP](https://img.shields.io/badge/MCP-1A1A1A?logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_Embeddings-1A1A1A)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?logo=nodedotjs&logoColor=5FA04E)
 ![NestJS](https://img.shields.io/badge/NestJS-1A1A1A?logo=nestjs&logoColor=E0234E)
-![Django REST](https://img.shields.io/badge/Django_REST-0C2D26?logo=django&logoColor=44B78B)
+![Django REST](https://img.shields.io/badge/Django_REST-1A1A1A?logo=django&logoColor=44B78B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-1A1A1A?logo=redis&logoColor=FF4438)
+
+**Frontend &amp; Mobile**
+
+![React](https://img.shields.io/badge/React-1A1A1A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-1A1A1A?logo=astro&logoColor=FF5D01)
+![Tailwind](https://img.shields.io/badge/Tailwind-1A1A1A?logo=tailwindcss&logoColor=38BDF8)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?logo=swift&logoColor=F05138)
 
 **Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1A1A1A?logo=kubernetes&logoColor=326CE5)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-1A1A1A?logo=opensearch&logoColor=005EB8)
 ![MinIO](https://img.shields.io/badge/MinIO-1A1A1A?logo=minio&logoColor=C72E49)
 ![Caddy](https://img.shields.io/badge/Caddy-1A1A1A?logo=caddy&logoColor=1F88C0)
 
 ### Selected work
 
-- **Search-driven platform** — document indexing, OpenSearch, autocomplete & relevance tuning
-- **Cross-platform app** — shared React Native codebase, mobile-first, scalable backend
-- **Developer tooling** — Python & Node.js CLIs to streamline workflows
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tlecomte13&theme=ayu_mirage" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tlecomte13&theme=ayu_mirage" />
-
-</div>
+- **AI document processing & semantic search** — RAG pipelines, PDF indexing and vector
+  embeddings over OpenSearch, with LangChain, AWS Bedrock and Llama. Packaged as
+  reusable MCP servers ([mcp-local-llama-opensearch](https://github.com/Tlecomte13/mcp-local-llama-opensearch)).
+- **Plume** — a SaaS product built end to end: Astro web, native iOS (SwiftUI) and SEO tooling.
+- **Open-source RAG examples** — practical LangChain pipelines for document Q&amp;A
+  ([example-rag-csv-ollama](https://github.com/Tlecomte13/example-rag-csv-ollama)).
