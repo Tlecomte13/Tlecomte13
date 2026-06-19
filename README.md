@@ -16,8 +16,10 @@
 
 Design and ship full-stack products end to end — lately focused on **AI-powered
 document processing and semantic search**: RAG pipelines, vector embeddings, and
-MCP servers on top of OpenSearch. From search-driven backends to native iOS and
-developer tooling, with a constant eye on clean architecture and software that lasts.
+MCP servers on top of OpenSearch. I build and run the underlying **cloud
+infrastructure on AWS** — S3 storage, Route 53 DNS, OpenSearch and Bedrock — from
+search-driven backends to native iOS, with a constant eye on clean architecture and
+software that lasts.
 
 ### Stack
 
@@ -45,8 +47,12 @@ developer tooling, with a constant eye on clean architecture and software that l
 ![Tailwind](https://img.shields.io/badge/Tailwind-1A1A1A?logo=tailwindcss&logoColor=38BDF8)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?logo=swift&logoColor=F05138)
 
-**Infra**
+**Cloud &amp; Infra**
 
+![AWS](https://img.shields.io/badge/AWS-1A1A1A?logo=amazonwebservices&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-1A1A1A?logo=amazons3&logoColor=569A31)
+![Route 53](https://img.shields.io/badge/Route_53-1A1A1A?logo=amazonroute53&logoColor=8C4FFF)
+![Bedrock](https://img.shields.io/badge/Bedrock-1A1A1A?logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1A1A1A?logo=kubernetes&logoColor=326CE5)
 ![MinIO](https://img.shields.io/badge/MinIO-1A1A1A?logo=minio&logoColor=C72E49)
